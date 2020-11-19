@@ -1,4 +1,4 @@
-Extracting Algorigth from Yaws Reference Database
+Extracting Algorithm from Yaws Reference Database
 ==================================================
 
 ## Overview
