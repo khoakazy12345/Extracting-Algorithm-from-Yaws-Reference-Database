@@ -1,3 +1,4 @@
+# might have to change directory
 CAS = open(r"D:\Research Project With Dr.Paluch\CAS.txt","r")
 database = open(r"D:\Research Project With Dr.Paluch\Water Solvent - Database.txt","r")
 cas = []
